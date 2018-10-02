@@ -2,9 +2,9 @@
 
 # Environment
 
-* Oracle JDK8
+* Oracle >=JDK8
 
-# Installation
+# Build and Run
   
 ```sh
 $ bash mvnw clean
